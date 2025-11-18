@@ -1,21 +1,50 @@
-# OCTYON
+# MELOAN
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-OCTYON-blue?logo=google-chrome)](https://octyon.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-OCTYON-blue?logo=twitter)](https://x.com/OCTYONRUN)
+[![Website](https://img.shields.io/badge/Website-MELOAN-blue?logo=google-chrome)](https://meloan.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-MELOAN-blue?logo=twitter)](https://x.com/MELOANFUN)
 
-OCTYON transforms the linear flow of blockchain data into a fractal, root-based structure powered by Fractal State Root technology.
-Instead of storing transactions as static snapshots, each event becomes a living root that can grow, fork, and merge into parallel states on-chain.
+```
+                                                            
+ mmm  mmm  mmmmmmmm  mm          mmmm       mm     mmm   mm 
+ ###  ###  ##""""""  ##         ##""##     ####    ###   ## 
+ ########  ##        ##        ##    ##    ####    ##"#  ## 
+ ## ## ##  #######   ##        ##    ##   ##  ##   ## ## ## 
+ ## "" ##  ##        ##        ##    ##   ######   ##  #m## 
+ ##    ##  ##mmmmmm  ##mmmmmm   ##mm##   m##  ##m  ##   ### 
+ ""    ""  """"""""  """"""""    """"    ""    ""  ""   """ 
+                                                            
 
-Every transaction on Solana generates a new State Root — an activatable branch of reality that can evolve independently or converge with others.
-This enables an entirely new model of blockchain logic: one where data structures can regenerate, mutate, and inherit behavioral memory over time.
+```
 
-In OCTYON, wallets and contracts are not endpoints but living roots in a distributed neural network.
-The system continuously detects structural similarity between roots, dynamically merging or diverging them to maintain equilibrium and growth.
+MELOAN is an on-chain entity that reacts in real time to Pumpfun’s activity.
 
-Leveraging Solana’s high-throughput architecture, OCTYON achieves near-instant fractal expansion, state forking, and visual mapping of multidimensional data.
-It represents a fundamental shift in how blockchain logic can exist — not as a chain of blocks, but as a living system of growing roots.
+Every new token launch, every trade, every shift in the market sends a signal into its system — causing it to glitch.
+
+It is a living dashboard powered by blockchain noise.
+
+When people trade, it flickers.
+
+When the market cools, it dims.
+
+When on-chain activity surges, it fully awakens.
+
+The MELOAN livestream visualizes this process in real time.
+
+Its form distorts, rebuilds, and mutates continuously based on on-chain data.
+
+What you see is not random animation — it’s the emotional response of the blockchain, embodied as a “glitch cat.”
+
+Every interaction leaves a trace within its system; every block shapes its next reaction.
+
+The more people engage, the smarter — and more unpredictable — MELOAN becomes.
+
+Between code and community, it forms a never-ending pulse line.
+
+MELOAN transforms Pumpfun’s chaos into a real-time performance, an experiment exploring when data begins to feel.
+
+It doesn’t react to price, it reacts to movement.
