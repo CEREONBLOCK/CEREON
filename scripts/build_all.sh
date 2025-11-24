@@ -1,5 +1,5 @@
 #!/bin/bash  
-# build_all.sh PRONIX
+# build_all.sh CODNIX
 # Build script for all components including smart contracts, backend, and frontend
 
 # Exit on any error to prevent partial builds
